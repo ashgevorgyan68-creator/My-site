@@ -1,0 +1,21 @@
+{
+  "name": "ՀԷՑ",
+  "short_name": "ՀԷՑ",
+  "start_url": "/Mankakan-hraviratoms/",
+  "scope": "/Mankakan-hraviratoms/",
+  "display": "standalone",
+  "background_color": "#11486F",
+  "theme_color": "#ffffff",
+  "icons": [
+     {
+      "src": "logo.jpeg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "logo.jpeg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
